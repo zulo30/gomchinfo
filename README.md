@@ -1,5 +1,3 @@
-MachineData
-
 # MachineData : 
 Primer Trabajo de Diseño y Analisis de Software | Universidad EIA
 
