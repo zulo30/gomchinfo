@@ -22,5 +22,5 @@ Primer Trabajo de Diseño y Analisis de Software | Universidad EIA
 *  Kevin Alexander Ibarra | 
 *  Mateo Zuluaga Loaiza |zulo30@gmail.com
 *  Alexis García Ramírez | 
-*  Simon Valencia | 
+*  Simon Valencia | simonv00@hotmail.com
 
